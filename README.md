@@ -1,2 +1,2 @@
-# Module-5-Solutions
+# Restaurant-Website-Model
 Solution of 5th assignment 
